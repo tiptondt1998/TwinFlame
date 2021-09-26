@@ -12,6 +12,7 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-google-photo": "^1.2.1",
+    "react-hook-use-state": "^1.1.0",
     "react-image": "^4.0.3",
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.3",
