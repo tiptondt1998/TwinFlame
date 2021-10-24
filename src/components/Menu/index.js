@@ -4,7 +4,8 @@ import './style.css'
 function Menu () {
     return(
         <div>
-        test
+        Ghost Pepper Burger
+        
         </div>
     )
 }
